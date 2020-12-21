@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10e5da47-af7d-4047-9b7e-8e7e1e640ccf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lWi1a818NAuTFszsuC0KuYXSYm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.train">
+    <configuration name="ProfileImgNet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="socialmedia-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\cvnww\miniconda3\envs\proj1\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cleaner" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cleaner/ProfileImgNet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clean" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="socialmedia-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cleaner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cleaner/clean.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="finetuning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="socialmedia-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/finetuning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="socialmedia-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="socialmedia-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\cvnww\miniconda3\envs\proj1\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="-t train" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ProfileImgNet" />
+      <item itemvalue="Python.train" />
+      <item itemvalue="Python.clean" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.finetuning" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.finetuning" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.ProfileImgNet" />
+        <item itemvalue="Python.clean" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\cvnww\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10e5da47-af7d-4047-9b7e-8e7e1e640ccf" name="Default Changelist" comment="" />
+      <created>1607719033245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607719033245</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="137" width="1089" height="764" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608486385666">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="208" y="137" width="1089" height="764" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1504.963@0.0.1504.963" timestamp="1608486385666" />
+    <state x="474" y="282" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608344992883">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="474" y="282" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1504.963@0.0.1504.963" timestamp="1608344992883" />
+    <state width="1502" height="440" key="DebuggerActiveHint" timestamp="1607721466401">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1502" height="440" key="DebuggerActiveHint/0.0.1504.963@0.0.1504.963" timestamp="1607721466401" />
+    <state x="533" y="237" key="FileChooserDialogImpl" timestamp="1607720899045">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="533" y="237" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1607720899045" />
+    <state width="1483" height="256" key="GridCell.Tab.0.bottom" timestamp="1608486424679">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="256" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1608486424679" />
+    <state width="1483" height="256" key="GridCell.Tab.0.center" timestamp="1608486424679">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="256" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1608486424679" />
+    <state width="1483" height="256" key="GridCell.Tab.0.left" timestamp="1608486424679">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="256" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1608486424679" />
+    <state width="1483" height="256" key="GridCell.Tab.0.right" timestamp="1608486424679">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="256" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1608486424679" />
+    <state width="1483" height="349" key="GridCell.Tab.1.bottom" timestamp="1608441614768">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="349" key="GridCell.Tab.1.bottom/0.0.1504.963@0.0.1504.963" timestamp="1608441614768" />
+    <state width="1483" height="349" key="GridCell.Tab.1.center" timestamp="1608441614768">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="349" key="GridCell.Tab.1.center/0.0.1504.963@0.0.1504.963" timestamp="1608441614768" />
+    <state width="1483" height="349" key="GridCell.Tab.1.left" timestamp="1608441614768">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="349" key="GridCell.Tab.1.left/0.0.1504.963@0.0.1504.963" timestamp="1608441614768" />
+    <state width="1483" height="349" key="GridCell.Tab.1.right" timestamp="1608441614768">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="349" key="GridCell.Tab.1.right/0.0.1504.963@0.0.1504.963" timestamp="1608441614768" />
+    <state x="254" y="126" key="SettingsEditor" timestamp="1607876453854">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="254" y="126" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1607876453854" />
+    <state width="759" height="488" key="XDebugger.FullValuePopup" timestamp="1608431978656">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="759" height="488" key="XDebugger.FullValuePopup/0.0.1504.963@0.0.1504.963" timestamp="1608431978656" />
+    <state x="93" y="93" width="1319" height="777" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1607931029876">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="93" y="93" width="1319" height="777" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1504.963@0.0.1504.963" timestamp="1607931029876" />
+    <state x="451" y="79" width="603" height="804" key="find.popup" timestamp="1607719571267">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="451" y="79" width="603" height="804" key="find.popup/0.0.1504.963@0.0.1504.963" timestamp="1607719571267" />
+  </component>
+</project>
