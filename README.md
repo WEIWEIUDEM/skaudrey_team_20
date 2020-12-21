@@ -36,4 +36,4 @@ To test or predict by a pretrained model, call:
 ### Pretrained Models
 
 * The fitted model by call training: xgboost-current.joblib
-* The best model: xgbost-1.joblib
+* The best model(reproduce kaggle best score): xgbost-1.joblib
