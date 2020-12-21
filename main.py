@@ -35,7 +35,7 @@ def loadModel(model_name):
 def finetune(model, X, y):
     # grid search
     param_grid = {'min_child_weight': [6, 7], 'subsample': [0.5], 'gamma': [0.05], 'max_depth': [6, 7],
-                  'learning_rate': [0.01, 0.1], 'n_estimators': [500, 600]}
+                  'learning_rate': [0.01, 0.05], 'n_estimators': [500, 600]}
     fitter = FineTuning(model, cv=10, param_grid=param_grid)
     model_current, params, best_score = fitter.finetuning(X, y)
     print('best_params')
